@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "office"
+version = "0.1.0"
+authors = [
+  { name="Chong Kim", email="ckim32@dxc.com" },]
+description = "The package is a collection of wrappers that provide programmatic access to the 0365 ecosystem both on the web and on the Desktop."
+requires-python = "==3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: Microsoft :: Windows"]

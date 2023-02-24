@@ -1,0 +1,7 @@
+xlrd==2.0.1
+sphinx==5.0.2
+pandas==1.5.2
+pyodbc==4.0.35
+openpyxl==3.0.10
+msoffcrypto-tool==5.0.0
+office365-rest-python-client==2.3.16
